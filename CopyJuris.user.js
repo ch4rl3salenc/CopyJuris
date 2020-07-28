@@ -1,17 +1,21 @@
 // ==UserScript==
-// @name          Copiar Jurisprudência Jusbrasil
-// @namespace     Copiar
-// @description   copia
-// @shortcutKeys  [Ctrl + `] ativação
-// @author        Hackerman
-// @version       0.1
-// @include       http*://*.jusbrasil.com.br/*
-// @icon          asdf
-// @compatible    Chrome Google Chrome + Tampermonkey
-// @grant         GM_registerMenuCommand
-// @license       BSD
-// @copyright     Hackerman, 02-07-2020
+// @name            Copiar Jurisprudência Jusbrasil
+// @namespace       https://github.com/ch4rl3salenc/CopyJuris
+// @description     copia
+// @shortcutKeys    [Ctrl + `] ativação
+// @author          ch4rl3salenc
+// @version         0.1
+// @include         http*://*.jusbrasil.com.br/*
+// @icon            asdf
+// @compatible      Chrome Google Chrome + Tampermonkey
+// @grant           GM_registerMenuCommand
+// @license         MIT
+// @copyright       2020, ch4rl3salenc (https://openuserjs.org/users/ch4rl3salenc)
 // ==/UserScript==
+
+//==OpenUserJS==
+//outhor            ch4rl3salenc
+//==/OpenUserJS==
 
 (function() {
     'use strict';
