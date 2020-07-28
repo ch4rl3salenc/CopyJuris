@@ -3,14 +3,13 @@
 // @namespace       Copiar
 // @description     copia
 // @shortcutKeys    [Ctrl + `] ativação
-// @license         BSD
 // @author          ch4rl3salenc
 // @version         0.1
 // @include         http*://*.jusbrasil.com.br/*
 // @icon            asdf
 // @compatible      Chrome Google Chrome + Tampermonkey
 // @grant           GM_registerMenuCommand
-// @license         OSI
+// @license         LGPL-3.0-or-later; https://raw.githubusercontent.com/sizzlemctwizzle/GM_config/master/LICENSE
 // ==/UserScript==
 
 (function() {
