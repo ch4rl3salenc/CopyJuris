@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Copiar Jurisprudência Jusbrasil
+// @name            CopyJuris
 // @namespace       https://github.com/ch4rl3salenc/CopyJuris
 // @description     copia
 // @shortcutKeys    [Ctrl + `] ativação
@@ -9,6 +9,7 @@
 // @icon            https://i.imgur.com/AC7SyUr.png
 // @compatible      Chrome Google Chrome + Tampermonkey
 // @grant           GM_registerMenuCommand
+//@updateURL        https://openuserjs.org/meta/ch4rl3salenc/CopyJuris.meta.js
 // @license         MIT
 // @copyright       2020, ch4rl3salenc (https://openuserjs.org/users/ch4rl3salenc)
 // ==/UserScript==
