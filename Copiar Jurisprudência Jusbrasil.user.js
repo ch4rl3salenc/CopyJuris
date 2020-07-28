@@ -1,17 +1,17 @@
 // ==UserScript==
-// @name                    Copiar Jurisprudência Jusbrasil
-// @namespace               Copiar
-// @description             copia
-// @shortcutKeys            [Ctrl + `] ativação
-// @license License Type    MIT
-// @author                  ch4rl3salenc
-// @version                 0.1
-// @include                 http*://*.jusbrasil.com.br/*
-// @icon                    asdf
-// @compatible              Chrome Google Chrome + Tampermonkey
-// @grant                   GM_registerMenuCommand
-// @license                 BSD
-// @copyright               ch4rl3salenc, 02-07-2020
+// @name            Copiar Jurisprudência Jusbrasil
+// @namespace       Copiar
+// @description     copia
+// @shortcutKeys    [Ctrl + `] ativação
+// @license         MIT
+// @author          ch4rl3salenc
+// @version         0.1
+// @include         http*://*.jusbrasil.com.br/*
+// @icon            asdf
+// @compatible      Chrome Google Chrome + Tampermonkey
+// @grant           GM_registerMenuCommand
+// @license         BSD
+// @copyright       ch4rl3salenc, 02-07-2020
 // ==/UserScript==
 
 (function() {
