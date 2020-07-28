@@ -6,7 +6,7 @@
 // @author          ch4rl3salenc
 // @version         0.1
 // @include         http*://*.jusbrasil.com.br/*
-// @icon            asdf
+// @icon            https://i.imgur.com/AC7SyUr.png
 // @compatible      Chrome Google Chrome + Tampermonkey
 // @grant           GM_registerMenuCommand
 // @license         MIT
