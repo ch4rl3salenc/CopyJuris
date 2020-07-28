@@ -10,7 +10,7 @@
 // @icon            asdf
 // @compatible      Chrome Google Chrome + Tampermonkey
 // @grant           GM_registerMenuCommand
-// @license         BSD
+// @license         OSI
 // ==/UserScript==
 
 (function() {
