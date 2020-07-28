@@ -3,7 +3,7 @@
 // @namespace       Copiar
 // @description     copia
 // @shortcutKeys    [Ctrl + `] ativação
-// @license         MIT
+// @license         BSD
 // @author          ch4rl3salenc
 // @version         0.1
 // @include         http*://*.jusbrasil.com.br/*
