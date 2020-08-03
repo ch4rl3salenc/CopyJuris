@@ -1,22 +1,16 @@
 // ==UserScript==
-// @name            CopyJuris
-// @namespace       https://github.com/ch4rl3salenc/CopyJuris
+// @name            Copiar Jurisprudência Jusbrasil
+// @namespace       Copiar
 // @description     copia
 // @shortcutKeys    [Ctrl + `] ativação
 // @author          ch4rl3salenc
 // @version         0.1
 // @include         http*://*.jusbrasil.com.br/*
-// @icon            https://i.imgur.com/AC7SyUr.png
+// @icon            asdf
 // @compatible      Chrome Google Chrome + Tampermonkey
 // @grant           GM_registerMenuCommand
-//@updateURL        https://openuserjs.org/meta/ch4rl3salenc/CopyJuris.meta.js
-// @license         MIT
-// @copyright       2020, ch4rl3salenc (https://openuserjs.org/users/ch4rl3salenc)
+// @license         LGPL-3.0-or-later; https://raw.githubusercontent.com/sizzlemctwizzle/GM_config/master/LICENSE
 // ==/UserScript==
-
-//==OpenUserJS==
-//outhor            ch4rl3salenc
-//==/OpenUserJS==
 
 (function() {
     'use strict';
@@ -34,11 +28,8 @@
             document.body.appendChild(textArea);
             textArea.select();
             document.execCommand("Copy");
-
-
     }
 
 }, 1000)
-
 
 })();
