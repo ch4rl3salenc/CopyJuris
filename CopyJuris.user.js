@@ -16,7 +16,7 @@
     'use strict';
 
     const intervalo= setInterval( ()=>{
-        const texto = document.querySelectorAll(".FactsForReferenceModalComponent-body")[0].textContent;
+        const texto = document.querySelectorAll(".CopyContentModal-body")[0].textContent;
         console.log(texto);
 
         if (texto) {
